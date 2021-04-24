@@ -1,4 +1,3 @@
 # updated-portfolio
-<div align="center">
-<img src="./Project-1.png" width="400px"></img>
-</div>
+
+<img src="assets/imges/Project-1.png" alt="Project-1 Picture></img>
