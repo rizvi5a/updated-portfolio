@@ -1,4 +1,7 @@
 # updated-portfolio:
+ <img src="assets/images/updated-portfolio.png" alt="updated-portfolio Picture>/img"> 
+
+# Project-1
 
 This project uses Spoonacular and Edmam APIs to make a very practical web-page. The favorite recipies are searched and then saved with comments in the localStorage for future use.
 
